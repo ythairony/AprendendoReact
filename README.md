@@ -1,2 +1,0 @@
-# AprendendoReact
-Aulas em React
